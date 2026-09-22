@@ -1,0 +1,7 @@
+[
+  {"id": 101, "nome": "Ana Oliveira", "status": "ativo", "valor_compra": 150.50},
+  {"id": 102, "nome": "Marcos Lima", "status": "inativo", "valor_compra": 0.00},
+  {"id": 103, "nome": "Fernanda Rocha", "status": "ativo", "valor_compra": 320.00},
+  {"id": 104, "nome": "Lucas Pereira", "status": "pendente", "valor_compra": 85.20},
+  {"id": 105, "nome": "Beatriz Santos", "status": "ativo", "valor_compra": 210.00}
+]
